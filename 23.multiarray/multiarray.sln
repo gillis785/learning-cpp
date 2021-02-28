@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "multiarray", "multiarray\multiarray.vcxproj", "{52C88816-119B-453B-B247-1DCC940586CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C88816-119B-453B-B247-1DCC940586CA}.Debug|x64.ActiveCfg = Debug|x64
+		{52C88816-119B-453B-B247-1DCC940586CA}.Debug|x64.Build.0 = Debug|x64
+		{52C88816-119B-453B-B247-1DCC940586CA}.Debug|x86.ActiveCfg = Debug|Win32
+		{52C88816-119B-453B-B247-1DCC940586CA}.Debug|x86.Build.0 = Debug|Win32
+		{52C88816-119B-453B-B247-1DCC940586CA}.Release|x64.ActiveCfg = Release|x64
+		{52C88816-119B-453B-B247-1DCC940586CA}.Release|x64.Build.0 = Release|x64
+		{52C88816-119B-453B-B247-1DCC940586CA}.Release|x86.ActiveCfg = Release|Win32
+		{52C88816-119B-453B-B247-1DCC940586CA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4052F5DB-4CBE-4328-B567-9F89765ADAA0}
+	EndGlobalSection
+EndGlobal
